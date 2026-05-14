@@ -36,3 +36,18 @@ class EvaLTDA:
 
     def life(self):
         return "Building intelligent solutions."
+```
+
+</td>
+
+<!-- COLUNA DA DIREITA (CARDS) -->
+<td width="45%" valign="top" align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Working_on-University_Athletics-7a1fff?style=for-the-badge&logo=github&logoColor=white" width="100%">
+  <br><br>
+  <img src="https://img.shields.io/badge/Learning-Oracle_SQL-00758f?style=for-the-badge&logo=oracle&logoColor=white" width="100%">
+  <br><br>
+  <img src="https://img.shields.io/badge/Collaborate_on-Full_Stack-white?style=for-the-badge&logo=codeforces&logoColor=7a1fff" width="100%">
+  <br><br>
+  <img src="https://img.shields.io/badge/Exploring-New_Tech-purple?style=for-the-badge&logo=rocket&logoColor=white" width="100%">
+</td>
