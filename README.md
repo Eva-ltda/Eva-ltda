@@ -53,14 +53,10 @@
 
 ## 📊 ESTATÍSTICAS & DESEMPENHO
 
-<br />
-
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eva-ltda&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eva-ltda&layout=compact&theme=synthwave&hide=html,css"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-ltda&theme=dark&background=0d1117&stroke=7a1fff&alarm=7a1fff" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eva-ltda&theme=2077" />
 </p>
-
-<br />
 
 ## 📬 VAMOS CONECTAR SEU NEGÓCIO AO FUTURO?
 
@@ -75,8 +71,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-
-<br />
 
 <!-- ONDA ANIMADA DE FECHAMENTO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7a1fff&height=120&section=footer"/>
