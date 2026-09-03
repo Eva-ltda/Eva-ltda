@@ -22,7 +22,7 @@
 
 <br />
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Ecossistema Tecnológico
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 <br />
@@ -46,19 +48,9 @@
 
 <br />
 
-### 📬 Contato
+### ⚡ Pilares de Engenharia
 
-<p align="center">
-  <a href="mailto:seu-email@dominio.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5500000000000" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+` Confiabilidade ` &nbsp;•&nbsp; ` Escalabilidade ` &nbsp;•&nbsp; ` Segurança ` &nbsp;•&nbsp; ` Automação End-to-End `
 
 <br />
 
