@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER ANIMADO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7a1fff&height=200&section=header&text=Eva%20LTDA&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20|%20IoT%20|%20Full%20Stack%20Development&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7a1fff&height=200&section=header&text=Eva%20&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automation%20|%20IoT%20|%20Full%20Stack%20Development&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Engenharia+de+Sistemas+%26+Automa%C3%A7%C3%A3o;Desenvolvimento+Full+Stack+%26+IoT;Solu%C3%A7%C3%B5es+Empresariais" />
 
