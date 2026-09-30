@@ -43,7 +43,6 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Eva-ltda&theme=dark&background=0d1117&stroke=7a1fff&alarm=7a1fff" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eva-ltda&theme=2077" />
 </p>
 
 <br />
